@@ -20,4 +20,4 @@ Além disso, o painel também apresenta a taxa de aderência, indicando o percen
 ![Dashboard](dash.jpg)
 
 
-![Dashboard](semana.jpg)
+![Dashboard](Semana.jpg)
